@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XOMUS
 - 👀 I’m interested in gameing/C/bash
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on lfinger 
+- 💞️ I’m looking to collaborate on lwfinger 
 - 📫 How to reach me ildargnu@yandex.ru
