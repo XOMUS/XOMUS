@@ -3,7 +3,3 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on lwfinger 
 - 📫 How to reach me ildargnu@yandex.ru
-- 😤 Dumb Ass
-- 🥵 Big ass
-- 😎 Dumb @XOMUS
-- 🖕 Fuck me
